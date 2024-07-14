@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/route-tech-summit-react/static/css/main.6a7507cd.css",
+    "main.js": "/route-tech-summit-react/static/js/main.e9693232.js",
+    "index.html": "/route-tech-summit-react/index.html",
+    "main.6a7507cd.css.map": "/route-tech-summit-react/static/css/main.6a7507cd.css.map",
+    "main.e9693232.js.map": "/route-tech-summit-react/static/js/main.e9693232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a7507cd.css",
+    "static/js/main.e9693232.js"
+  ]
+}
